@@ -6,14 +6,16 @@ for swapping "super" and "left_alt" buttons.
 
 ## Intoduction
 
-Due to muscle memory of using mac keyboard layout for several years I got used
-to have "left alt" button before "super" button. After switcing back to Linux
-I've tried to restore a conviniet set of keybindings such as capslock to
-ctlr/esc. I found a great [caps2esc](https://gitlab.com/interception/linux/plugins/caps2esc) project which provides exactly what I needed.
+Due to muscle memory of using mac keyboard layout for several years I got
+used to have "left alt" button before "super" button. After switching back to
+Linux I've tried to restore a convenient set of keybindings such as caps lock
+to ctrl/esc. I found a great
+[caps2esc](https://gitlab.com/interception/linux/plugins/caps2esc) project
+which provides exactly what I needed.
 
-Unfortuanetly, for some reason when I set up caps2esc, I lost all keybindings
-which I set up via xmodmap. This plugin is just a workaround while I'm trying
-to figure out an appropriate solution.
+Unfortunately, for some reason when I set up `caps2esc`, I lost all key
+bindings which I set up via xmodmap. This plugin is just a workaround while
+I'm trying to figure out an appropriate solution.
 
 ## Building
 
